@@ -41,9 +41,9 @@ This is a responsive, one-page web app built as part of a technical task for NIC
 
 ## 🧑‍💼 About
 
-Built with ❤️ by L Manjunatha  
+Built with ❤️ by Abhijeet Ghorpade 
 Submitted for NICSAN task, July 2025  
-Contact: lmanjunatha18@gmail.com
+Contact: a37abhijeetghorpade@gmail.com
 
 
 # React + Vite
